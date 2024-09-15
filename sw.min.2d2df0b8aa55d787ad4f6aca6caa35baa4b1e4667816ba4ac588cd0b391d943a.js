@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/mac-softwares/sw.js",{scope:"/mac-softwares/"})

@@ -1,0 +1,15 @@
+{
+  "name": "Mac软件",
+  "short_name": "Mac软件",
+  "start_url": "/mac-softwares/",
+  "scope": "/mac-softwares/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/mac-softwares/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
